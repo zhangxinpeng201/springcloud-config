@@ -1,2 +1,2 @@
 config:
-   value:test
+  info: "master branch,springcloud-config/config-test.yml version=1"
